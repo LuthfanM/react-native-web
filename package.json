@@ -1,0 +1,20 @@
+{
+  "name": "react-native-web-root-element-styles",
+  "version": "1.0.0",
+  "description": "How to style the root element into which your web app is rendered.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-native-web": "0.11.x",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
